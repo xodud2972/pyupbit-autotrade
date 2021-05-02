@@ -22,3 +22,4 @@
 - 백그라운드 실행: nohup python3 bitcoinAutoTrade.py > output.log &
 - 실행되고 있는지 확인: ps ax | grep .py
 - 프로세스 종료(PID는 ps ax | grep .py를 했을때 확인 가능): kill -9 PID
+![image](https://user-images.githubusercontent.com/75707477/116813215-b1672f00-ab8d-11eb-925a-3cd1e4339748.png)
